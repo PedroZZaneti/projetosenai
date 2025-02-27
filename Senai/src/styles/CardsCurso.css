@@ -1,0 +1,13 @@
+.MainDiv{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.Card{
+  width: 375px;
+  height: 400px;
+  background-color: #c5c5c5;
+
+}

@@ -1,0 +1,37 @@
+.NavBarra{
+    height: 120px;
+    width: 100vw;
+    background-color: #cfcfcf;
+    display: flex;
+    
+}
+
+.Divisoria{
+    height: 100%;
+    width: 33.333333333%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.Divisoria img{
+    width: 285px;
+    height: 72px;
+}
+
+.button1 {
+    height: 50px;
+    width: 285px;
+    background-color: #2029ad;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+}
+.button2 {
+    height: 50px;
+    width: 285px;
+    background-color: #FF0000;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+}
