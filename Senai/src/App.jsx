@@ -10,9 +10,9 @@ function App() {
     <header>
     <NavBarra />
     </header>
-    <body>
+    <main>
     <CardsCurso />
-    </body>
+    </main>
       
       
     </>
